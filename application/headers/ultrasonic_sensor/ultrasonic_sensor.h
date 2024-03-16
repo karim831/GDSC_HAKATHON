@@ -7,6 +7,7 @@
 /*  section : macro declaration */
 #define     MINIMUM_DISTANCE    2       //cm
 #define     MAXIMUM_DISTANCE    400     //cm
+#define     SELECTED_DISTANCE   40      //cm
 
 #define     SOUND_SPEED         .0351   //cm/us
 #define     BROCHE_TRIGGER      10      //us  time for trig to be high
