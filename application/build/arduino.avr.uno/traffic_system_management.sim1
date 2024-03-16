@@ -58,17 +58,17 @@
 
 <item itemtype="Tunnel" CircId="Tunnel-721" mainComp="false" Show_id="false" Show_Val="false" Pos="-1024,-236" rotation="360" hflip="1" vflip="1" label="Tunnel-721" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Name="left_horizontal" />
 
-<item itemtype="Fixed Voltage" CircId="Fixed Voltage-751" mainComp="false" ShowProp="Voltage" Show_id="false" Show_Val="true" Pos="-1300,-52" rotation="2160" hflip="1" vflip="1" label="Fixed Voltage-751" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="12 V" />
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-751" mainComp="false" ShowProp="Voltage" Show_id="false" Show_Val="true" Pos="-1320,-200" rotation="2160" hflip="1" vflip="1" label="Fixed Voltage-751" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="12 V" />
 
-<item itemtype="Tunnel" CircId="Tunnel-753" mainComp="false" Show_id="false" Show_Val="false" Pos="-1188,-132" rotation="720" hflip="-1" vflip="1" label="Tunnel-753" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Name="left_h" />
+<item itemtype="Tunnel" CircId="Tunnel-753" mainComp="false" Show_id="false" Show_Val="false" Pos="-1208,-280" rotation="720" hflip="-1" vflip="1" label="Tunnel-753" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Name="left_h" />
 
-<item itemtype="Buffer" CircId="Buffer-860" mainComp="false" Show_id="false" Show_Val="false" Pos="-1228,-132" rotation="0" hflip="1" vflip="1" label="Buffer-860" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Tristate="true" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+09 Ω" Out_High_V="60 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
+<item itemtype="Buffer" CircId="Buffer-860" mainComp="false" Show_id="false" Show_Val="false" Pos="-1248,-280" rotation="0" hflip="1" vflip="1" label="Buffer-860" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Tristate="true" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+09 Ω" Out_High_V="60 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
-<item itemtype="Tunnel" CircId="Tunnel-863" mainComp="false" Show_id="false" Show_Val="false" Pos="-1172,-52" rotation="720" hflip="-1" vflip="1" label="Tunnel-863" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Name="right_h" />
+<item itemtype="Tunnel" CircId="Tunnel-863" mainComp="false" Show_id="false" Show_Val="false" Pos="-1192,-200" rotation="720" hflip="-1" vflip="1" label="Tunnel-863" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Name="right_h" />
 
-<item itemtype="Buffer" CircId="Buffer-864" mainComp="false" Show_id="false" Show_Val="false" Pos="-1224,-52" rotation="0" hflip="1" vflip="1" label="Buffer-864" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Tristate="true" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+09 Ω" Out_High_V="60 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
+<item itemtype="Buffer" CircId="Buffer-864" mainComp="false" Show_id="false" Show_Val="false" Pos="-1244,-200" rotation="0" hflip="1" vflip="1" label="Buffer-864" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Tristate="true" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+09 Ω" Out_High_V="60 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
-<item itemtype="Fixed Voltage" CircId="Fixed Voltage-881" mainComp="false" ShowProp="Voltage" Show_id="false" Show_Val="true" Pos="-1300,-132" rotation="2160" hflip="1" vflip="1" label="Fixed Voltage-881" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="12 V" />
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-881" mainComp="false" ShowProp="Voltage" Show_id="false" Show_Val="true" Pos="-1320,-280" rotation="2160" hflip="1" vflip="1" label="Fixed Voltage-881" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="12 V" />
 
 <item itemtype="Fixed Voltage" CircId="Fixed Voltage-891" mainComp="false" Show_id="false" Show_Val="false" Pos="-1024,-432" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-891" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="12 V" />
 
@@ -88,9 +88,9 @@
 
 <item itemtype="Tunnel" CircId="Tunnel-971" mainComp="false" Show_id="false" Show_Val="false" Pos="-1244,-488" rotation="0" hflip="1" vflip="1" label="Tunnel-971" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Name="left_vertical" />
 
-<item itemtype="Tunnel" CircId="Tunnel-972" mainComp="false" Show_id="false" Show_Val="false" Pos="-1232,-80" rotation="360" hflip="1" vflip="1" label="Tunnel-972" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Name="right_horizontal" />
+<item itemtype="Tunnel" CircId="Tunnel-972" mainComp="false" Show_id="false" Show_Val="false" Pos="-1252,-228" rotation="360" hflip="1" vflip="1" label="Tunnel-972" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Name="right_horizontal" />
 
-<item itemtype="Tunnel" CircId="Tunnel-973" mainComp="false" Show_id="false" Show_Val="false" Pos="-1236,-156" rotation="360" hflip="1" vflip="1" label="Tunnel-973" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Name="left_horizontal" />
+<item itemtype="Tunnel" CircId="Tunnel-973" mainComp="false" Show_id="false" Show_Val="false" Pos="-1256,-304" rotation="360" hflip="1" vflip="1" label="Tunnel-973" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Name="left_horizontal" />
 
 <item itemtype="Tunnel" CircId="Tunnel-978" mainComp="false" Show_id="false" Show_Val="false" Pos="-224,-572" rotation="990" hflip="-1" vflip="1" label="Tunnel-978" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Name="left_v" />
 
@@ -276,9 +276,9 @@
 
 <item itemtype="Connector" uid="Connector-723" startpinid="Uno-305-8" endpinid="Tunnel-721-pin" pointList="-1000,-236,-1024,-236" />
 
-<item itemtype="Connector" uid="Connector-871" startpinid="Fixed Voltage-751-outnod" endpinid="Buffer-864-in0" pointList="-1284,-52,-1240,-52" />
+<item itemtype="Connector" uid="Connector-871" startpinid="Fixed Voltage-751-outnod" endpinid="Buffer-864-in0" pointList="-1304,-200,-1260,-200" />
 
-<item itemtype="Connector" uid="Connector-883" startpinid="Fixed Voltage-881-outnod" endpinid="Buffer-860-in0" pointList="-1284,-132,-1244,-132" />
+<item itemtype="Connector" uid="Connector-883" startpinid="Fixed Voltage-881-outnod" endpinid="Buffer-860-in0" pointList="-1304,-280,-1264,-280" />
 
 <item itemtype="Connector" uid="Connector-682" startpinid="74XX46-296-LT" endpinid="Node-894-0" pointList="-948,-428,-956,-428" />
 
@@ -292,9 +292,9 @@
 
 <item itemtype="Connector" uid="Connector-975" startpinid="Tunnel-970-pin" endpinid="Buffer-951-Pin_outEnable" pointList="-1236,-416,-1228,-416,-1228,-392" />
 
-<item itemtype="Connector" uid="Connector-976" startpinid="Tunnel-973-pin" endpinid="Buffer-860-Pin_outEnable" pointList="-1236,-156,-1228,-156,-1228,-144" />
+<item itemtype="Connector" uid="Connector-976" startpinid="Tunnel-973-pin" endpinid="Buffer-860-Pin_outEnable" pointList="-1256,-304,-1248,-304,-1248,-292" />
 
-<item itemtype="Connector" uid="Connector-977" startpinid="Tunnel-972-pin" endpinid="Buffer-864-Pin_outEnable" pointList="-1232,-80,-1224,-80,-1224,-64" />
+<item itemtype="Connector" uid="Connector-977" startpinid="Tunnel-972-pin" endpinid="Buffer-864-Pin_outEnable" pointList="-1252,-228,-1244,-228,-1244,-212" />
 
 <item itemtype="Connector" uid="Connector-984" startpinid="Tunnel-982-pin" endpinid="Seven Segment-291-pin_commona" pointList="-220,-8,-220,-16" />
 
@@ -374,9 +374,9 @@
 
 <item itemtype="Connector" uid="Connector-961" startpinid="Buffer-951-out" endpinid="Tunnel-956-pin" pointList="-1212,-380,-1180,-380" />
 
-<item itemtype="Connector" uid="Connector-862" startpinid="Buffer-860-out" endpinid="Tunnel-753-pin" pointList="-1212,-132,-1188,-132" />
+<item itemtype="Connector" uid="Connector-862" startpinid="Buffer-860-out" endpinid="Tunnel-753-pin" pointList="-1232,-280,-1208,-280" />
 
-<item itemtype="Connector" uid="Connector-866" startpinid="Buffer-864-out" endpinid="Tunnel-863-pin" pointList="-1208,-52,-1172,-52" />
+<item itemtype="Connector" uid="Connector-866" startpinid="Buffer-864-out" endpinid="Tunnel-863-pin" pointList="-1228,-200,-1192,-200" />
 
 <item itemtype="Connector" uid="Connector-1115" startpinid="Tunnel-1106-pin" endpinid="SR04-302-outpin" pointList="-212,-488,-212,-484" />
 
